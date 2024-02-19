@@ -10,6 +10,4 @@ Integrates state management for dynamic content and interactions.
 
 -> Technologies Used
 React.js
-HTML5
-CSS3
-JavaScript
+Material UI
